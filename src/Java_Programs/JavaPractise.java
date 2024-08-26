@@ -5,5 +5,6 @@ public class JavaPractise {
         int i =1;
         int j=2;
         String s = "yaseen";
+
     }
 }
